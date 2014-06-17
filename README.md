@@ -1,4 +1,4 @@
-Zargy-GM-Engine
+Zargy-Engine
 ===============
 
-A Game Maker Studio Helper Engine.
+A game engine.
